@@ -1,7 +1,10 @@
+/* src/index.css (or your main CSS file) */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Your other global styles below */
 .perspective-1000 {
   perspective: 1000px;
 }
